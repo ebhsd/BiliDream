@@ -6,7 +6,7 @@ BiliDream 是基于bilibili搜索接口的小型Python项目，可以根据设�
 
 ---
 
-⚙️ 安装与运行
+⚙️ 安装与运行  
 1 克隆项目到本地：  
 git clone https://github.com/ebhsd/BiliDream.git  
 cd BiliDream
