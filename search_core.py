@@ -128,6 +128,7 @@ def search_with_keywords(
         )
         all_videos.extend(filtered)
 
+    all_videos = list({v.bvid: v for v in all_videos}.values())
     if shuffle:
         import random
         random.shuffle(all_videos)

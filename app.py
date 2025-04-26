@@ -208,3 +208,6 @@ def render(vs:List[BiliVideo]):
 
 if VIDEOS_KEY in st.session_state and st.session_state[VIDEOS_KEY]:
     render(st.session_state[VIDEOS_KEY])
+
+
+#streamlit run app.py
