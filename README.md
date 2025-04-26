@@ -1,6 +1,7 @@
 🎬 基于关键词的 Bilibili 视频推荐器
 
-BiliDream 是基于bilibili搜索接口的小型Python项目，可以根据设定的关键词、播放量、点赞比等条件，从B站自动抓取视频，并附带了推送到 PushPlus的方法。
+BiliDream 是基于bilibili搜索接口的小型Python项目，可以根据设定的关键词、播放量、点赞比等条件，从B站自动抓取视频，并附带了推送到 PushPlus的方法。  
+演示https://www.bilibili.com/video/BV1FaLXzTEp  
 
 ---
 
